@@ -1,4 +1,4 @@
-# Hi, I'm Arushi! 👋
+# Hey there, it's me Arushi👋
 
 Welcome to my GitHub profile.
 
