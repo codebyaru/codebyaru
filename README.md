@@ -13,5 +13,3 @@ Welcome to my GitHub profile.
 
 ## How to reach me
 - [LinkedIn](https://www.linkedin.com/in/arushijain676/)
-- [Gmail}(arushij0607@gmail.com)
-
