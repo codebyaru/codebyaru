@@ -43,6 +43,7 @@
 <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="40"/></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyaru&show_icons=true&locale=en" alt="codebyaru" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyaru&" alt="codebyaru" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyaru&show_icons=true&locale=en&cache_seconds=0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyaru&cache_seconds=0" />
+</p>
